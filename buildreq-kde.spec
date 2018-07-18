@@ -7,7 +7,7 @@ Url:            https://clearlinux.org/
 Group:          base
 Requires:       qtbase-dev
 Requires:       qtbase-extras
-Requires:	extra-cmake-cmodules
+Requires:	extra-cmake-modules
 
 %description
 Helper files
