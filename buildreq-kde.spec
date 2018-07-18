@@ -8,6 +8,7 @@ Group:          base
 Requires:       qtbase-dev
 Requires:       qtbase-extras
 Requires:	extra-cmake-modules
+Requires:	mesa-dev
 
 %description
 Helper files
