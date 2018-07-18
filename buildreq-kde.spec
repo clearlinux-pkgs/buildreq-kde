@@ -10,13 +10,13 @@ Requires:       qtbase-extras
 Requires:	extra-cmake-modules
 Requires:	mesa-dev
 Requires:	qt3d-dev
-Requires:	qtcanvas3d-dev
+Requires:	qtcanvas3d
 Requires:	qtcharts-dev
 Requires:	qtconnectivity-dev
 Requires:	qtdatavis3d-dev
 Requires:	qtdeclarative-dev
 Requires:	qtgamepad-dev
-Requires:	qtgraphicaleffects-dev
+Requires:	qtgraphicaleffects
 Requires:	qtimageformats-dev
 Requires:	qtlocation-dev
 Requires:	qtmultimedia-dev
@@ -31,7 +31,7 @@ Requires:	qtserialport-dev
 Requires:	qtspeech-dev
 Requires:	qtsvg-dev
 Requires:	qttools-dev
-Requires:	qttranslations-dev
+Requires:	qttranslations
 Requires:	qtvirtualkeyboard-dev
 Requires:	qtwayland-dev
 Requires:	qtwebchannel-dev
