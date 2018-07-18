@@ -38,7 +38,7 @@ Requires:	qtwebchannel-dev
 Requires:	qtwebsockets-dev
 Requires:	qtx11extras-dev
 Requires:	qtxmlpatterns-dev
-Requires:	qttools-extra
+Requires:	qttools-extras
 %description
 Helper files
 
