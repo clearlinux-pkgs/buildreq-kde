@@ -1,6 +1,6 @@
 Name:           buildreq-kde
 Version:        1
-Release:        9
+Release:        10
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -39,6 +39,13 @@ Requires:	qtwebsockets-dev
 Requires:	qtx11extras-dev
 Requires:	qtxmlpatterns-dev
 Requires:	qttools-extras
+
+Requires:	kconfig
+Requires:	kconfig-dev
+Requires:	kauth-dev
+Requires:	kconfigwidgets-dev
+Requires:	kcoreaddons-dev
+
 %description
 Helper files
 
