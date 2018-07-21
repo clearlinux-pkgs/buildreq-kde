@@ -46,6 +46,7 @@ Requires:	kauth-dev
 Requires:	kconfigwidgets-dev
 Requires:	kcoreaddons-dev
 Requires:	kio-dev
+Requires:	kbookmarks-dev
 Requires:	kdoctools-dev
 Requires:	kdoctools
 Requires:	ki18n-dev
