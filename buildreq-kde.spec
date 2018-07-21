@@ -45,6 +45,11 @@ Requires:	kconfig-dev
 Requires:	kauth-dev
 Requires:	kconfigwidgets-dev
 Requires:	kcoreaddons-dev
+Requires:	kio-dev
+Requires:	kdoctools-dev
+Requires:	kdoctools
+Requires:	ki18n-dev
+Requires:	kservice-dev
 
 %description
 Helper files
