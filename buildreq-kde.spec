@@ -52,6 +52,10 @@ Requires:	kdoctools
 Requires:	ki18n-dev
 Requires:	kservice-dev
 
+Requires:	kconfigwidgets-dev
+Requires:	kpty-dev
+
+
 %description
 Helper files
 
