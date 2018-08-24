@@ -54,6 +54,17 @@ Requires:	kservice-dev
 
 Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
+Requires:	kwidgetsaddons-dev
+Requires: 	kcodecs-dev
+Requires:	knewstuff-dev
+Requires:	kcmutils-dev
+Requires:	kiconthemes-dev
+Requires:	kcompletion-dev
+Requires:	kxmlgui-dev
+Requires:	kitemviews-dev
+Requires:	attica-dev
+Requires:	kjobwidgets-dev
+Requires:	solid-dev
 
 
 %description
