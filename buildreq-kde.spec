@@ -83,6 +83,9 @@ Requires: 	kunitconversion-dev
 Requires: 	kwallet-dev
 Requires: 	sonnet-dev
 
+# compat provides
+
+Provides: qttools-extras
 
 %description
 Helper files
