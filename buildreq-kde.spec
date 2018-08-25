@@ -38,7 +38,6 @@ Requires:	qtwebchannel-dev
 Requires:	qtwebsockets-dev
 Requires:	qtx11extras-dev
 Requires:	qtxmlpatterns-dev
-Requires:	qttools-extras
 
 Requires:	kconfig
 Requires:	kconfig-dev
