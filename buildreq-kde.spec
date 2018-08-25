@@ -64,6 +64,8 @@ Requires:	kitemviews-dev
 Requires:	attica-dev
 Requires:	kjobwidgets-dev
 Requires:	solid-dev
+Requires:	networkmanager-qt-dev
+Requires:	NetworkManager-dev
 
 
 %description
