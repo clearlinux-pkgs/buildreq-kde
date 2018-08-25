@@ -64,6 +64,24 @@ Requires:	kjobwidgets-dev
 Requires:	solid-dev
 Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
+Requires: 	kdelibs4support-dev
+Requires:	karchive-dev
+Requires:	kcrash-dev
+Requires:	kwindowsystem-dev
+Requires: 	kdbusaddons-dev
+Requires: 	kdeclarative-dev
+Requires: 	kdesignerplugin-dev
+Requires: 	kemoticons-dev
+Requires: 	kguiaddons-dev
+Requires: 	kinit-dev
+Requires: 	kitemmodels-dev
+Requires: 	knotifications-dev
+Requires: 	kpackage-dev
+Requires: 	kparts-dev
+Requires: 	ktextwidgets-dev
+Requires: 	kunitconversion-dev
+Requires: 	kwallet-dev
+Requires: 	sonnet-dev
 
 
 %description
