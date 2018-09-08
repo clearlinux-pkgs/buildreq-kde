@@ -82,6 +82,8 @@ Requires: 	ktextwidgets-dev
 Requires: 	kunitconversion-dev
 Requires: 	kwallet-dev
 Requires: 	sonnet-dev
+Requires: 	qtx11extras-dev
+Requires:	boost-dev
 
 # compat provides
 
