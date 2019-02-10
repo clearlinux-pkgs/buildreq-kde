@@ -39,6 +39,7 @@ Requires:	qtxmlpatterns-dev
 
 Requires:	kconfig
 Requires:	kconfig-dev
+Requires:	kauth
 Requires:	kauth-dev
 Requires:	kconfigwidgets-dev
 Requires:	kcoreaddons-dev
