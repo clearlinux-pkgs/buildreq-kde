@@ -1,6 +1,6 @@
 Name:           buildreq-kde
 Version:        1
-Release:        22
+Release:        23
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -58,6 +58,7 @@ Requires:	knewstuff-dev
 Requires:	kcmutils-dev
 Requires:	kiconthemes-dev
 Requires:	kcompletion-dev
+Requires:	kxmlgui-dev
 Requires:	kitemviews-dev
 Requires:	attica-dev
 Requires:	kjobwidgets-dev
