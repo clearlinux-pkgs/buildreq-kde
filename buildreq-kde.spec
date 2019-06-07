@@ -85,6 +85,8 @@ Requires: 	kwallet-dev
 Requires: 	sonnet-dev
 Requires: 	qtx11extras-dev
 Requires:	boost-dev
+Requires:	kimap-dev
+Requires:	kimap-staticdev
 
 # compat provides
 
