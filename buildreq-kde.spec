@@ -1,6 +1,6 @@
 Name:           buildreq-kde
 Version:        1
-Release:        24
+Release:        25
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -9,7 +9,6 @@ Requires:       qtbase-dev
 Requires:	extra-cmake-modules
 Requires:	mesa-dev
 Requires:	qt3d-dev
-Requires:	qtcanvas3d
 Requires:	qtcharts-dev
 Requires:	qtconnectivity-dev
 Requires:	qtdatavis3d-dev
