@@ -87,6 +87,7 @@ Requires:	boost-dev
 Requires:	kimap-dev
 Requires:	kimap-staticdev
 Requires:	kaccounts-integration-dev
+Requires:	lm-sensors-dev
 
 # compat provides
 
