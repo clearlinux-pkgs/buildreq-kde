@@ -86,6 +86,7 @@ Requires: 	qtx11extras-dev
 Requires:	boost-dev
 Requires:	kimap-dev
 Requires:	kimap-staticdev
+Requires:	kaccounts-integration-dev
 
 # compat provides
 
