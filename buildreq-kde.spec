@@ -88,6 +88,7 @@ Requires:	kimap-dev
 Requires:	kimap-staticdev
 Requires:	kaccounts-integration-dev
 Requires:	lm-sensors-dev
+Requires:	plasma-framework-dev
 
 # compat provides
 
