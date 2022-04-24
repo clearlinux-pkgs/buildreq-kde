@@ -89,7 +89,7 @@ Requires:	kimap-staticdev
 Requires:	kaccounts-integration-dev
 Requires:	lm-sensors-dev
 Requires:	plasma-framework-dev
-Rquires:        qtkeychain-dev
+Requires:        qtkeychain-dev
 
 # compat provides
 
