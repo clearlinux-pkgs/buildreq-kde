@@ -90,7 +90,7 @@ Requires:	kaccounts-integration-dev
 Requires:	lm-sensors-dev
 Requires:	plasma-framework-dev
 Requires:        qtkeychain-dev
-
+Requires:	libglvnd-dev
 # compat provides
 
 Provides: qttools-extras
