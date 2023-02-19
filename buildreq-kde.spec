@@ -91,6 +91,7 @@ Requires:	lm-sensors-dev
 Requires:	plasma-framework-dev
 Requires:        qtkeychain-dev
 Requires:	libglvnd-dev
+Requires:	pkgconfig(x11)
 # compat provides
 
 Provides: qttools-extras
