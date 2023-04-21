@@ -84,11 +84,11 @@ Requires: 	kwallet-dev
 Requires: 	sonnet-dev
 Requires: 	qtx11extras-dev
 Requires:	boost-dev
-Requires:	kimap-dev
-Requires:	kimap-staticdev
-Requires:	kaccounts-integration-dev
+#Requires:	kimap-dev
+#Requires:	kimap-staticdev
+#Requires:	kaccounts-integration-dev
 Requires:	lm-sensors-dev
-Requires:	plasma-framework-dev
+#Requires:	plasma-framework-dev
 Requires:        qtkeychain-dev
 Requires:	libglvnd-dev
 Requires:	pkgconfig(x11)
