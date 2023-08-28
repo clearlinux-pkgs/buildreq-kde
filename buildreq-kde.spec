@@ -92,6 +92,7 @@ Requires:	lm-sensors-dev
 Requires:        qtkeychain-dev
 Requires:	libglvnd-dev
 Requires:	pkgconfig(x11)
+Requires:	ktextaddons-dev
 # compat provides
 
 Provides: qttools-extras
