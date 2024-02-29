@@ -47,10 +47,13 @@ Requires:	kconfig-dev
 Requires:	kcoreaddons-dev
 Requires:	ki18n-dev
 Requires:	kwindowsystem-dev
-
-%if 0
+Requires: 	kcodecs-dev
+Requires: 	kguiaddons-dev
+Requires:	kwidgetsaddons-dev
 Requires:	kauth
 Requires:	kauth-dev
+
+%if 0
 Requires:	kconfigwidgets-dev
 Requires:	kio-dev
 Requires:	kbookmarks-dev
@@ -60,8 +63,6 @@ Requires:	kservice-dev
 
 Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
-Requires:	kwidgetsaddons-dev
-Requires: 	kcodecs-dev
 Requires:	knewstuff-dev
 Requires:	kcmutils-dev
 Requires:	kiconthemes-dev
@@ -80,7 +81,6 @@ Requires: 	kdbusaddons-dev
 Requires: 	kdeclarative-dev
 Requires: 	kdesignerplugin-dev
 Requires: 	kemoticons-dev
-Requires: 	kguiaddons-dev
 Requires: 	kinit-dev
 Requires: 	kitemmodels-dev
 Requires: 	knotifications-dev
