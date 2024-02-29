@@ -71,9 +71,9 @@ Requires:	kdoctools
 Requires:	kservice-dev
 Requires: 	kwallet-dev
 Requires: 	knotifications-dev
+Requires:	kio-dev
 
 %if 0
-Requires:	kio-dev
 
 Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
