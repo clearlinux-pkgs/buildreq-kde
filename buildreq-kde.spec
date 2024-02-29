@@ -66,12 +66,14 @@ Requires: 	sonnet-dev
 Requires:	kitemviews-dev
 Requires: 	ktextwidgets-dev
 Requires:	kxmlgui-dev
-
-%if 0
-Requires:	kio-dev
 Requires:	kdoctools-dev
 Requires:	kdoctools
 Requires:	kservice-dev
+Requires: 	kwallet-dev
+Requires: 	knotifications-dev
+
+%if 0
+Requires:	kio-dev
 
 Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
@@ -87,11 +89,9 @@ Requires: 	kdesignerplugin-dev
 Requires: 	kemoticons-dev
 Requires: 	kinit-dev
 Requires: 	kitemmodels-dev
-Requires: 	knotifications-dev
 Requires: 	kpackage-dev
 Requires: 	kparts-dev
 Requires: 	kunitconversion-dev
-Requires: 	kwallet-dev
 Requires: 	qtx11extras-dev
 #Requires:	kimap-dev
 #Requires:	kimap-staticdev
