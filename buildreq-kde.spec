@@ -9,6 +9,11 @@ Requires:       qtbase-dev
 Requires:	extra-cmake-modules
 Requires:	buildreq-qt6
 Requires:	mesa-dev
+Requires:	libglvnd-dev
+Requires:	pkgconfig(x11)
+Requires:	boost-dev
+Requires:	lm-sensors-dev
+
 Requires:	qt3d-dev
 Requires:	qtcharts-dev
 Requires:	qtconnectivity-dev
@@ -37,6 +42,7 @@ Requires:	qtwebchannel-dev
 Requires:	qtwebsockets-dev
 Requires:	qtxmlpatterns-dev
 
+%if 0
 Requires:	kconfig
 Requires:	kconfig-dev
 Requires:	kauth
@@ -84,17 +90,14 @@ Requires: 	kunitconversion-dev
 Requires: 	kwallet-dev
 Requires: 	sonnet-dev
 Requires: 	qtx11extras-dev
-Requires:	boost-dev
 #Requires:	kimap-dev
 #Requires:	kimap-staticdev
 #Requires:	kaccounts-integration-dev
-Requires:	lm-sensors-dev
 #Requires:	plasma-framework-dev
 Requires:        qtkeychain-dev
-Requires:	libglvnd-dev
-Requires:	pkgconfig(x11)
 Requires:	ktextaddons-dev
 # compat provides
+%endif
 
 Provides: qttools-extras
 
