@@ -42,18 +42,20 @@ Requires:	qtwebchannel-dev
 Requires:	qtwebsockets-dev
 Requires:	qtxmlpatterns-dev
 
-%if 0
 Requires:	kconfig
 Requires:	kconfig-dev
+Requires:	kcoreaddons-dev
+Requires:	ki18n-dev
+Requires:	kwindowsystem-dev
+
+%if 0
 Requires:	kauth
 Requires:	kauth-dev
 Requires:	kconfigwidgets-dev
-Requires:	kcoreaddons-dev
 Requires:	kio-dev
 Requires:	kbookmarks-dev
 Requires:	kdoctools-dev
 Requires:	kdoctools
-Requires:	ki18n-dev
 Requires:	kservice-dev
 
 Requires:	kconfigwidgets-dev
@@ -74,7 +76,6 @@ Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
 Requires:	karchive-dev
 Requires:	kcrash-dev
-Requires:	kwindowsystem-dev
 Requires: 	kdbusaddons-dev
 Requires: 	kdeclarative-dev
 Requires: 	kdesignerplugin-dev
