@@ -53,6 +53,8 @@ Requires:	kwidgetsaddons-dev
 Requires:	kauth
 Requires:	kauth-dev
 Requires:	qt6speech-dev
+Requires:	kcrash-dev
+Requires: 	kdbusaddons-dev
 
 %if 0
 Requires:	kiconthemes-dev
@@ -77,8 +79,6 @@ Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
 Requires:	karchive-dev
-Requires:	kcrash-dev
-Requires: 	kdbusaddons-dev
 Requires: 	kdeclarative-dev
 Requires: 	kdesignerplugin-dev
 Requires: 	kemoticons-dev
