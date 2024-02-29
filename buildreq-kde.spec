@@ -72,15 +72,21 @@ Requires:	kservice-dev
 Requires: 	kwallet-dev
 Requires: 	knotifications-dev
 Requires:	kio-dev
+Requires:	kjobwidgets-dev
+Requires: 	kparts-dev
+Requires: 	kunitconversion-dev
+Requires: 	kitemmodels-dev
+Requires: 	kpackage-dev
+Requires:	kpty-dev
+Requires:	qt5compat-dev
 
 %if 0
+Requires:	knewstuff-dev
+
 
 Requires:	kconfigwidgets-dev
-Requires:	kpty-dev
-Requires:	knewstuff-dev
 Requires:	kcmutils-dev
 Requires:	attica-dev
-Requires:	kjobwidgets-dev
 Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
@@ -88,10 +94,6 @@ Requires: 	kdeclarative-dev
 Requires: 	kdesignerplugin-dev
 Requires: 	kemoticons-dev
 Requires: 	kinit-dev
-Requires: 	kitemmodels-dev
-Requires: 	kpackage-dev
-Requires: 	kparts-dev
-Requires: 	kunitconversion-dev
 Requires: 	qtx11extras-dev
 #Requires:	kimap-dev
 #Requires:	kimap-staticdev
