@@ -63,10 +63,9 @@ Requires:	karchive-dev
 Requires:	kbookmarks-dev
 Requires:	kcompletion-dev
 Requires: 	sonnet-dev
-
-
-
+Requires:	kitemviews-dev
 Requires: 	ktextwidgets-dev
+Requires:	kxmlgui-dev
 
 %if 0
 Requires:	kio-dev
@@ -78,8 +77,6 @@ Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
 Requires:	knewstuff-dev
 Requires:	kcmutils-dev
-Requires:	kxmlgui-dev
-Requires:	kitemviews-dev
 Requires:	attica-dev
 Requires:	kjobwidgets-dev
 Requires:	networkmanager-qt-dev
