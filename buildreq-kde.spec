@@ -7,6 +7,7 @@ Url:            https://clearlinux.org/
 Group:          base
 Requires:       qtbase-dev
 Requires:	extra-cmake-modules
+Requires:	buildreq-qt6
 Requires:	mesa-dev
 Requires:	qt3d-dev
 Requires:	qtcharts-dev
