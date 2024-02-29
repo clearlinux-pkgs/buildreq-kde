@@ -52,8 +52,10 @@ Requires: 	kguiaddons-dev
 Requires:	kwidgetsaddons-dev
 Requires:	kauth
 Requires:	kauth-dev
+Requires:	qt6speech-dev
 
 %if 0
+Requires:	kiconthemes-dev
 Requires:	kconfigwidgets-dev
 Requires:	kio-dev
 Requires:	kbookmarks-dev
@@ -65,7 +67,6 @@ Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
 Requires:	knewstuff-dev
 Requires:	kcmutils-dev
-Requires:	kiconthemes-dev
 Requires:	kcompletion-dev
 Requires:	kxmlgui-dev
 Requires:	kitemviews-dev
