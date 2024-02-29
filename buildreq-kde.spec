@@ -57,12 +57,19 @@ Requires:	kcrash-dev
 Requires: 	kdbusaddons-dev
 Requires:	solid-dev
 Requires:	kcolorscheme-dev
-
-%if 0
 Requires:	kiconthemes-dev
 Requires:	kconfigwidgets-dev
-Requires:	kio-dev
+Requires:	karchive-dev
 Requires:	kbookmarks-dev
+Requires:	kcompletion-dev
+Requires: 	sonnet-dev
+
+
+
+Requires: 	ktextwidgets-dev
+
+%if 0
+Requires:	kio-dev
 Requires:	kdoctools-dev
 Requires:	kdoctools
 Requires:	kservice-dev
@@ -71,7 +78,6 @@ Requires:	kconfigwidgets-dev
 Requires:	kpty-dev
 Requires:	knewstuff-dev
 Requires:	kcmutils-dev
-Requires:	kcompletion-dev
 Requires:	kxmlgui-dev
 Requires:	kitemviews-dev
 Requires:	attica-dev
@@ -79,7 +85,6 @@ Requires:	kjobwidgets-dev
 Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
-Requires:	karchive-dev
 Requires: 	kdeclarative-dev
 Requires: 	kdesignerplugin-dev
 Requires: 	kemoticons-dev
@@ -88,10 +93,8 @@ Requires: 	kitemmodels-dev
 Requires: 	knotifications-dev
 Requires: 	kpackage-dev
 Requires: 	kparts-dev
-Requires: 	ktextwidgets-dev
 Requires: 	kunitconversion-dev
 Requires: 	kwallet-dev
-Requires: 	sonnet-dev
 Requires: 	qtx11extras-dev
 #Requires:	kimap-dev
 #Requires:	kimap-staticdev
