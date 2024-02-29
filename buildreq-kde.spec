@@ -1,6 +1,6 @@
 Name:           buildreq-kde
 Version:        1
-Release:        43
+Release:        44
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
