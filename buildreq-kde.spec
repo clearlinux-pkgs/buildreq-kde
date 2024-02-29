@@ -55,6 +55,8 @@ Requires:	kauth-dev
 Requires:	qt6speech-dev
 Requires:	kcrash-dev
 Requires: 	kdbusaddons-dev
+Requires:	solid-dev
+Requires:	kcolorscheme-dev
 
 %if 0
 Requires:	kiconthemes-dev
@@ -74,7 +76,6 @@ Requires:	kxmlgui-dev
 Requires:	kitemviews-dev
 Requires:	attica-dev
 Requires:	kjobwidgets-dev
-Requires:	solid-dev
 Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
