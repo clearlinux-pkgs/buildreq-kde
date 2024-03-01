@@ -83,13 +83,13 @@ Requires:	kcmutils-dev
 Requires:	attica-dev
 Requires: 	kdeclarative-dev
 Requires:	kirigami2-dev
+Requires:	knewstuff-dev
+Requires:	kconfigwidgets-dev
 
 %if 0
-Requires:	knewstuff-dev
 
 Requires: 	kemoticons-dev
 
-Requires:	kconfigwidgets-dev
 Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
