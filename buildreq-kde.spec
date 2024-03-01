@@ -79,20 +79,20 @@ Requires: 	kitemmodels-dev
 Requires: 	kpackage-dev
 Requires:	kpty-dev
 Requires:	qt5compat-dev
+Requires:	kcmutils-dev
+Requires:	attica-dev
+Requires: 	kdeclarative-dev
+Requires: 	kemoticons-dev
 
 %if 0
 Requires:	knewstuff-dev
 
 
 Requires:	kconfigwidgets-dev
-Requires:	kcmutils-dev
-Requires:	attica-dev
 Requires:	networkmanager-qt-dev
 Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
-Requires: 	kdeclarative-dev
 Requires: 	kdesignerplugin-dev
-Requires: 	kemoticons-dev
 Requires: 	kinit-dev
 Requires: 	qtx11extras-dev
 #Requires:	kimap-dev
