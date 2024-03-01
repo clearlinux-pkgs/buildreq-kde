@@ -85,13 +85,14 @@ Requires: 	kdeclarative-dev
 Requires:	kirigami2-dev
 Requires:	knewstuff-dev
 Requires:	kconfigwidgets-dev
+Requires:	NetworkManager-dev
+Requires:	libkdegames-dev
 
 %if 0
 
 Requires: 	kemoticons-dev
 
 Requires:	networkmanager-qt-dev
-Requires:	NetworkManager-dev
 Requires: 	kdelibs4support-dev
 Requires: 	kdesignerplugin-dev
 Requires: 	kinit-dev
