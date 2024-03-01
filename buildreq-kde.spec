@@ -82,11 +82,12 @@ Requires:	qt5compat-dev
 Requires:	kcmutils-dev
 Requires:	attica-dev
 Requires: 	kdeclarative-dev
-Requires: 	kemoticons-dev
+Requires:	knewstuff-dev
+Requires:	kirigami2-dev
 
 %if 0
-Requires:	knewstuff-dev
 
+Requires: 	kemoticons-dev
 
 Requires:	kconfigwidgets-dev
 Requires:	networkmanager-qt-dev
