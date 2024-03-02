@@ -56,7 +56,6 @@ Requires:	qt6speech-dev
 Requires:	kcrash-dev
 Requires: 	kdbusaddons-dev
 Requires:	solid-dev
-Requires:	kcolorscheme-dev
 Requires:	kiconthemes-dev
 Requires:	kconfigwidgets-dev
 Requires:	karchive-dev
@@ -91,6 +90,7 @@ Requires:	libkdegames-dev
 Requires:	ksvg-dev
 Requires:	ktexttemplate-dev
 Requires:	libplasma-dev
+Requires:	kcolorscheme-dev
 
 
 Requires: 	kemoticons-dev
