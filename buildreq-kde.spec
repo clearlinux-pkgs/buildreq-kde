@@ -87,6 +87,8 @@ Requires:	knewstuff-dev
 Requires:	kconfigwidgets-dev
 Requires:	NetworkManager-dev
 Requires:	libkdegames-dev
+Requires:	ksvg-dev
+Requires:	ktexttemplate-dev
 
 %if 0
 
