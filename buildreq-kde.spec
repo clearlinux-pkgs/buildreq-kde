@@ -89,6 +89,7 @@ Requires:	NetworkManager-dev
 Requires:	libkdegames-dev
 Requires:	ksvg-dev
 Requires:	ktexttemplate-dev
+Requires:	libplasma-dev
 
 %if 0
 
