@@ -69,6 +69,7 @@ Requires:	kxmlgui-dev
 Requires:	kdoctools-dev
 Requires:	kdoctools
 Requires:	kservice-dev
+%if 0
 Requires: 	kwallet-dev
 Requires: 	knotifications-dev
 Requires:	kio-dev
@@ -91,7 +92,6 @@ Requires:	ksvg-dev
 Requires:	ktexttemplate-dev
 Requires:	libplasma-dev
 
-%if 0
 
 Requires: 	kemoticons-dev
 
