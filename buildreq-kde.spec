@@ -91,6 +91,7 @@ Requires:	ktexttemplate-dev
 Requires:	libplasma-dev
 Requires:	kcolorscheme-dev
 Requires:	polkit-qt6-dev
+Requires:	plasma5support-dev
 
 %if 0
 
