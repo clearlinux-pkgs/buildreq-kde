@@ -92,6 +92,7 @@ Requires:	libplasma-dev
 Requires:	kcolorscheme-dev
 Requires:	polkit-qt6-dev
 Requires:	plasma5support-dev
+Requires:	xdg-desktop-portal-kde
 
 %if 0
 
