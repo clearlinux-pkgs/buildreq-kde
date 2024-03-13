@@ -90,6 +90,7 @@ Requires:	ksvg-dev
 Requires:	ktexttemplate-dev
 Requires:	libplasma-dev
 Requires:	kcolorscheme-dev
+Requires:	polkit-qt6-dev
 
 %if 0
 
