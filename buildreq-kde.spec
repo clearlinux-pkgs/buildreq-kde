@@ -94,6 +94,7 @@ Requires:	polkit-qt6-dev
 Requires:	plasma5support-dev
 Requires:	xdg-desktop-portal-kde
 Requires:	kirigami-addons-dev
+Requires:	ktextaddons-dev
 %if 0
 
 Requires: 	kemoticons-dev
