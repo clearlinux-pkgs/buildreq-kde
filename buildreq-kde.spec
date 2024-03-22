@@ -95,6 +95,8 @@ Requires:	plasma5support-dev
 Requires:	xdg-desktop-portal-kde
 Requires:	kirigami-addons-dev
 Requires:	ktextaddons-dev
+Requires:	kirigami-dev
+Requires:	prison-dev
 %if 0
 
 Requires: 	kemoticons-dev
