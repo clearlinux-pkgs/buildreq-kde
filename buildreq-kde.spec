@@ -5,7 +5,6 @@ License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
 Group:          base
-Requires:       qtbase-dev
 Requires:	extra-cmake-modules
 Requires:	buildreq-qt6
 Requires:	mesa-dev
@@ -13,34 +12,6 @@ Requires:	libglvnd-dev
 Requires:	pkgconfig(x11)
 Requires:	boost-dev
 Requires:	lm-sensors-dev
-
-Requires:	qt3d-dev
-Requires:	qtcharts-dev
-Requires:	qtconnectivity-dev
-Requires:	qtdatavis3d-dev
-Requires:	qtdeclarative-dev
-Requires:	qtgamepad-dev
-Requires:	qtgraphicaleffects
-Requires:	qtimageformats-dev
-Requires:	qtlocation-dev
-Requires:	qtmultimedia-dev
-Requires:	qtnetworkauth-dev
-Requires:	qtquickcontrols2-dev
-Requires:	qtremoteobjects-dev
-Requires:	qtscript-dev
-Requires:	qtscxml-dev
-Requires:	qtsensors-dev
-Requires:	qtserialbus-dev
-Requires:	qtserialport-dev
-Requires:	qtspeech-dev
-Requires:	qtsvg-dev
-Requires:	qttools-dev
-Requires:	qttranslations
-Requires:	qtvirtualkeyboard-dev
-Requires:	qtwayland-dev
-Requires:	qtwebchannel-dev
-Requires:	qtwebsockets-dev
-Requires:	qtxmlpatterns-dev
 
 Requires:	kconfig
 Requires:	kconfig-dev
