@@ -1,6 +1,6 @@
 Name:           buildreq-kde
 Version:        1
-Release:        70
+Release:        71
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -39,7 +39,6 @@ Requires:	kxmlgui-dev
 Requires:	kdoctools-dev
 Requires:	kdoctools
 Requires:	kservice-dev
-Requires: 	kwallet-dev
 Requires: 	knotifications-dev
 Requires:	kio-dev
 Requires:	kjobwidgets-dev
