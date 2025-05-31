@@ -1,6 +1,6 @@
 Name:           buildreq-kde
 Version:        1
-Release:        73
+Release:        74
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -51,7 +51,7 @@ Requires:	qt5compat-dev
 Requires:	kcmutils-dev
 Requires:	attica-dev
 Requires: 	kdeclarative-dev
-Requires:	kirigami2-dev
+#Requires:	kirigami2-dev
 Requires:	knewstuff-dev
 Requires:	kconfigwidgets-dev
 Requires:	NetworkManager-dev
